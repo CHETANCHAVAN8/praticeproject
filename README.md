@@ -1,2 +1,2 @@
 Praticeproject 
-Visit my website https://github.com/CHETANCHAVAN8/praticeproject.git
+Visit my website https://chetanchavan8.github.io/praticeproject/
